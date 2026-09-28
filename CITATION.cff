@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this repository or its code, please cite it as follows."
+title: "SKILL NEXIS by NEXIS SOLUTIONS"
+abstract: "A comprehensive educational repository for learning Large Language Models (LLMs) from scratch. This collection contains code, tutorials, and learning materials for developing, pretraining, and finetuning GPT-like LLMs."
+date-released: 2024-09-28
+authors:
+  - family-names: "NEXIS"
+    given-names: "SOLUTIONS"
+license: "Apache-2.0"
+url: "https://github.com/rakeshsoniiii/LLMs"
+repository-code: "https://github.com/rakeshsoniiii/LLMs"
+keywords:
+  - large language models
+  - natural language processing
+  - artificial intelligence
+  - PyTorch
+  - machine learning
+  - deep learning
